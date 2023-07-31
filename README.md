@@ -2,6 +2,7 @@
 Cli interface to Flipper ESP32 (WIFI Marauder) 
 
 Works on Linux and MacOS
+
 Usage: 
 ff [/dev/ttyusbxxx] 
 
