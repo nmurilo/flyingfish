@@ -6,4 +6,4 @@ Works on Linux and MacOS
 Usage: 
 ff [/dev/ttyusbxxx] 
 
-Dont forget to change the speed to 115200 (GPIO->USB-UART Bridge-Config->Baudrate 115200)
+Dont forget to change the Flipper Zero's speed to 115200 (GPIO->USB-UART Bridge-Config->Baudrate 115200)
