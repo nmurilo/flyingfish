@@ -1,6 +1,6 @@
 // Flynig Fish - Flipper ESP32 console 
 // Version 0.1 - Initial public release 
-// Version 0.2 - Add sniff command support - 2023-08-03
+// Version 0.2 - Added sniff command support - 2023-08-03
 //               
 // (c)  Nelson Murilo - nmurilo@gmail.com 
 // License: AMS 
