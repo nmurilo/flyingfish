@@ -62,7 +62,7 @@ int main(int argc, char *argv[])
    if (argc == 2) 
    { 
       len = (size_t) strlen(argv[1]); 
-      memset(&tty[0], '\0', 127); 
+      memset(&tty[0], '\0', 128); 
       strncpy(tty, argv[1], (len < 127) ? len : 127); 
    } 
 
